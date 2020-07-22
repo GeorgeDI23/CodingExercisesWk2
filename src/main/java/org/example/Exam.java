@@ -202,7 +202,7 @@ public class Exam {
 
     //There is an object x which has a method (double)Balance(). Build an IF statement that prints "Paid Off" if
     // the result of the balance call is less than of equal to 1.0, else it prints the balance as a Dollar figure (2 decimal places)
-    /* public void 
+    /* public void
 
 
 
